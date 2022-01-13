@@ -1,5 +1,18 @@
 .lang {
-    display: flex;
-    align-items: center;
-    
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	position: absolute;
+	text-align: center;
+}
+
+.Español img {
+	width: 40%;
+	padding: 30px;
+	height: 40%;
+}
+
+.Ingles img {
+	width: 80%;
+	padding: 30px;
 }
